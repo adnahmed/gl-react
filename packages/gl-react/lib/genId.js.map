@@ -1,0 +1,1 @@
+{"version":3,"file":"genId.js","names":["genId","i","_default","exports","default"],"sources":["../src/genId.js"],"sourcesContent":["//@flow\r\nconst genId: () => number = ((i) => () => ++i)(0);\r\nexport default genId;\r\n"],"mappings":";;;;;;AACA,MAAMA,KAAmB,GAAG,CAAEC,CAAC,IAAK,MAAM,EAAEA,CAAC,EAAE,CAAC,CAAC;AAAC,IAAAC,QAAA,GAAAC,OAAA,CAAAC,OAAA,GACnCJ,KAAK","ignoreList":[]}
